@@ -1,13 +1,25 @@
 import os
+import time
+
 print('\t\t\t\t\tWelcome to')
-os.system('cls')
+time.sleep(1.5)
+
 print('\t\t\t\t\t    C')
+time.sleep(0.5)
 print('\t\t\t\t\t    Y')
+time.sleep(0.5)
 print('\t\t\t\t\t    B')
+time.sleep(0.5)
 print('\t\t\t\t\t    E')
+time.sleep(0.5)
 print('\t\t\t\t\t    R')
+time.sleep(0.5)
 print('\t\t\t\t\t    W')
+time.sleep(0.5)
 print('\t\t\t\t\t    O')
+time.sleep(0.5)
 print('\t\t\t\t\t    R')
+time.sleep(0.5)
 print('\t\t\t\t\t    L')
+time.sleep(0.5)
 print('\t\t\t\t\t    D')
