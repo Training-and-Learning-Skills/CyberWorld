@@ -1,0 +1,13 @@
+import os
+print('\t\t\t\t\tWelcome to')
+os.system('cls')
+print('\t\t\t\t\t    C')
+print('\t\t\t\t\t    Y')
+print('\t\t\t\t\t    B')
+print('\t\t\t\t\t    E')
+print('\t\t\t\t\t    R')
+print('\t\t\t\t\t    W')
+print('\t\t\t\t\t    O')
+print('\t\t\t\t\t    R')
+print('\t\t\t\t\t    L')
+print('\t\t\t\t\t    D')
